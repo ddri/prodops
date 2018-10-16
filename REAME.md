@@ -8,20 +8,13 @@ This guide is a reference that is building over time. I work as head of product 
 
 # Product tools
 
-Adobe XD 
-
-Sketch
-
-Balsamiq
-
-Product Plan
-
-Roadmunk
-
-A-Ha
-
-Team Gantt
-
+- Adobe XD 
+- Sketch
+- Balsamiq
+- Product Plan
+- Roadmunk
+- A-Ha
+- Team Gantt
 
 # Product books 
 
