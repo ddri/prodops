@@ -15,6 +15,7 @@ This guide is a reference that is building over time. I work as head of product 
 - Roadmunk
 - A-Ha
 - Team Gantt
+- Atlassian suite
 
 ## Business model tools
 
