@@ -63,7 +63,10 @@ This section lists resources that are written as guides rather than just a blog 
 
 # Engineering methodology
 
+- [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
+- [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))
 - [The twelve-factor app](https://12factor.net/)
+
 
 # Product videos
 
@@ -107,4 +110,5 @@ This section lists resources that are written as guides rather than just a blog 
 
 # Product events
 
+- [Leading the product](https://www.leadingtheproduct.com/)
 - [Product Tank](https://www.mindtheproduct.com/producttank/)
