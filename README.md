@@ -43,7 +43,11 @@ This guide is a reference that is building over time. I work as head of product 
 - [Mind the Product](https://www.mindtheproduct.com/)
 
 
+# Product posts
 
+This isn't a very scientific collection, but here's some product posts that have resonated with me. 
+
+- https://www.productplan.com/hard-skills-product-management
 
 # Product guides
 
