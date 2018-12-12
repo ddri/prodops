@@ -33,7 +33,18 @@ This guide is a reference that is building over time. I work as head of product 
 
 # Product books 
 
+## Product leadership 
 - Product leadership - Richard Banfield, Martin Eriksson, Nate Walkingshaw
+
+## 
+
+- [Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy--Yourself/dp/0321657292)
+- [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
+- [UX for Lean Startups](https://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911/)
+- [The Persona Lifecycle](https://www.amazon.com/The-Persona-Lifecycle-Interactive-Technologies/dp/0125662513)
+- [Defensive Design for the Web](https://www.amazon.com/Defensive-Design-Web-improve-messages/dp/073571410X)
+- 
+
 
 # Product blogs and websites
 
@@ -41,6 +52,9 @@ This guide is a reference that is building over time. I work as head of product 
 - [Product Coalition](https://productcoalition.com/)
 - [Product Smart](https://www.projectsmart.co.uk/) - Project Smart is the project management resource that helps managers at all levels improve their performance. We provide an important knowledge base for those involved in managing projects of all kinds. With weekly exclusive updates, we keep you in touch with the latest project management thinking.
 - [Mind the Product](https://www.mindtheproduct.com/)
+- [UX Collective](https://uxdesign.cc/)
+- [UX Myths](https://uxmyths.com/)
+- [52 Weeks of UX](http://52weeksofux.com/)
 
 
 # Product posts
@@ -48,6 +62,7 @@ This guide is a reference that is building over time. I work as head of product 
 This isn't a very scientific collection, but here's some product posts that have resonated with me. 
 
 - https://www.productplan.com/hard-skills-product-management
+- [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 
 # Product guides
 
@@ -58,6 +73,12 @@ This section lists resources that are written as guides rather than just a blog 
 - [The guide to project management - Team gantt](https://www.teamgantt.com/guide-to-project-management)
 - [The ultimate guide to project planning - Project Manager](https://www.projectmanager.com/project-planning)
 
+# Design systems 
+
+- [Atlassian Design](https://atlassian.design/)
+- [Google Design](https://design.google/)
+- [Mailchimp Design](https://mailchimp.com/design/)
+- []
 
 # Product methodology
 
@@ -116,3 +137,13 @@ This section lists resources that are written as guides rather than just a blog 
 
 - [Leading the product](https://www.leadingtheproduct.com/)
 - [Product Tank](https://www.mindtheproduct.com/producttank/)
+
+# Product meetups
+
+This section is highly locational dependent. 
+
+# Product MOOCs
+
+
+
+
