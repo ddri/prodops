@@ -34,16 +34,17 @@ This guide is a reference that is building over time. I work as head of product 
 # Product books 
 
 ## Product leadership 
+
 - Product leadership - Richard Banfield, Martin Eriksson, Nate Walkingshaw
 
-## 
+## Design
 
 - [Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy--Yourself/dp/0321657292)
 - [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
 - [UX for Lean Startups](https://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911/)
 - [The Persona Lifecycle](https://www.amazon.com/The-Persona-Lifecycle-Interactive-Technologies/dp/0125662513)
 - [Defensive Design for the Web](https://www.amazon.com/Defensive-Design-Web-improve-messages/dp/073571410X)
-- 
+- [Information Architecture for the World Wide Web](https://www.amazon.com/Information-Architecture-World-Wide-Web/dp/0596527349)
 
 
 # Product blogs and websites
@@ -55,6 +56,8 @@ This guide is a reference that is building over time. I work as head of product 
 - [UX Collective](https://uxdesign.cc/)
 - [UX Myths](https://uxmyths.com/)
 - [52 Weeks of UX](http://52weeksofux.com/)
+- [Nielsen Norman Group](https://www.nngroup.com)
+
 
 
 # Product posts
@@ -63,6 +66,20 @@ This isn't a very scientific collection, but here's some product posts that have
 
 - https://www.productplan.com/hard-skills-product-management
 - [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+- [Optimizing forms for greater conversions](https://usabilla.com/blog/optimizing-forms-greater-conversions/)
+- [Placeholders in Form Fields Are Harmful](https://www.nngroup.com/articles/form-design-placeholders/)
+- [The anchoring principle](https://www.nngroup.com/articles/anchoring-principle/)
+- [What Is Design Thinking, Really? (What Practitioners Say)](https://www.nngroup.com/articles/design-thinking-practitioners-say/)
+- [Journey mapping 101](https://www.nngroup.com/articles/journey-mapping-101/)
+- [Accounting for UX Work with User Stories in Agile Projects](https://www.nngroup.com/articles/ux-user-stories/)
+- [Front-End Style-Guides: Definition, Requirements, Component Checklist](https://www.nngroup.com/articles/front-end-style-guides/)
+- [UX Mapping Methods Compared: A Cheat Sheet](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
+- [Poor Management = Mediocre UX Design](https://www.nngroup.com/articles/ux-effectiveness/)
+- [Inline Validation in Web Forms](https://alistapart.com/article/inline-validation-in-web-forms)
+- [User Experience: Designing Form Validation the Right Way](https://webdesign.tutsplus.com/articles/user-experience-designing-form-validation-the-right-way--webdesign-681)
+- [21 first class examples of effective web form design](https://econsultancy.com/21-first-class-examples-of-effective-web-form-design/)
+- 
+
 
 # Product guides
 
@@ -75,10 +92,19 @@ This section lists resources that are written as guides rather than just a blog 
 
 # Design systems 
 
+Mega list.
+
+- [Design systems repo](https://designsystemsrepo.com/design-systems/)
+
+Specifics. 
+
 - [Atlassian Design](https://atlassian.design/)
 - [Google Design](https://design.google/)
 - [Mailchimp Design](https://mailchimp.com/design/)
-- []
+- [Helpscout](http://style.helpscout.com/)
+- [IBM Living language](https://www.ibm.com/design/language/)
+
+
 
 # Product methodology
 
