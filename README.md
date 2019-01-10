@@ -17,6 +17,10 @@ This guide is a reference that is building over time. I work as head of product 
 - Team Gantt
 - Atlassian suite
 
+Wireframing
+
+- https://wireframe.cc/
+
 ## Business model tools
 
 - https://www.businessmodelsinc.com/about-bmi/tools/
@@ -63,6 +67,7 @@ This isn't a very scientific collection, but here's some product posts that have
 
 - https://www.productplan.com/hard-skills-product-management
 - [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+- [The Secret Phrase Top Innovators Use - Harvard Business Review](https://hbr.org/2012/09/the-secret-phrase-top-innovato)
 
 # Product guides
 
@@ -78,7 +83,7 @@ This section lists resources that are written as guides rather than just a blog 
 - [Atlassian Design](https://atlassian.design/)
 - [Google Design](https://design.google/)
 - [Mailchimp Design](https://mailchimp.com/design/)
-- []
+
 
 # Product methodology
 
@@ -143,6 +148,9 @@ This section lists resources that are written as guides rather than just a blog 
 This section is highly locational dependent. 
 
 # Product MOOCs
+
+
+# Product techniques
 
 
 
